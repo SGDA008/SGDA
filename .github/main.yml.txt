@@ -5,7 +5,6 @@
     <title>Sardari Gifted Dastar Academy</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
-        body { font-family: Arial, sans-serif; margin:0; }
         header, footer { background: #19647e; color: #fff; text-align: center; padding: 1.2rem 0; }
         nav { background: #28afb0; padding: 0.5rem; text-align: center; }
         nav a { color: #fff; text-decoration: none; margin: 0 10px; font-size: 1.1rem; }
